@@ -1,0 +1,31 @@
+Rater,Movie,Rating
+Lamark,ATSV,4
+Lamark,American Psycho,4
+Lamark,Joker,4.5
+Lamark,Perfect Blue,3.5
+Lamark,Kill Bill,5
+Lamark,Dune 2,
+Emily,ATSV,4
+Emily,American Psycho,
+Emily,Joker,
+Emily,Perfect Blue,4.5
+Emily,Kill Bill,
+Emily,Dune 2,4
+Chad,ATSV,4.5
+Chad,American Psycho,3.5
+Chad,Joker,4
+Chad,Perfect Blue,
+Chad,Kill Bill,
+Chad,Dune 2,
+Tiana,ATSV,
+Tiana,American Psycho,
+Tiana,Joker,3
+Tiana,Perfect Blue,3.5
+Tiana,Kill Bill,4
+Tiana,Dune 2,5
+Stephen,ATSV,5
+Stephen,American Psycho,3.5
+Stephen,Joker,3.5
+Stephen,Perfect Blue,4
+Stephen,Kill Bill,5
+Stephen,Dune 2,2.5
